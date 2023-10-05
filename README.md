@@ -20,10 +20,10 @@ ce site a etait crée par Abderrahmane Bengherbia et Moustakima Azihari
 
 ## Utilisation
 
-1.ouvrir un navigateur web 
-2.aller sur notre site 
-3.choisir une formation qui vous intéresse 
-4.et bon visionnage
+-1.ouvrir un navigateur web 
+-2.aller sur notre site 
+-3.choisir une formation qui vous intéresse 
+-4.et bon visionnage
 
 
 #
