@@ -12,8 +12,8 @@ ce site a etait crée par [Abderrahmane Bengherbia et Moustakima Azihari et cett
 
 - il y a des cours de programmation intutif et simple
 - on peut apprendre des langages de programation tel que:
-- c++
-- python
+- C++
+- Python
 - java
 - java script
 - php
