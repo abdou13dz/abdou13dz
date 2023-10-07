@@ -26,6 +26,14 @@
 - 3 choisir une formation qui vous intéresse 
 - 4 et bon visionnage
 
+## compétence acquise
+-  [x]  Conception de programme
+-  [x]  faire pages Web dynamiques
+-  [x]  Conception de base de données
+-  [x]  Conception et utilisation d’API
+-  [x]  Automatisation de test
+-  [x]  l’analyse de données
+
 
 ## Licence
 
