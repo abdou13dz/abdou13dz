@@ -12,8 +12,8 @@
 
 - Il y a des cours de programmation intutif et simple
 - on peut apprendre des langages de programation tel que:
-- C++
-- Python
+- [C++](https://fr.wikipedia.org/wiki/C%2B%2B)
+- [Python](https://fr.wikipedia.org/wiki/Python_(langage))
 - Java
 - Java script
 - Php
