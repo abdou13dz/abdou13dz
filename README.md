@@ -37,16 +37,16 @@
 -  [x]   les concepts de base des réseaux et de la sécurité informatique
 
 ## métiers aprés notre formation
-| Tables        |  Cool  |
+| Métiers        |  salaire  |
 | ------------- | -----:|
-| Développeur de logiciels    | $1600 |
-| Développeur de jeux vidéo   |   $12 |
-| Administrateur de bases de données    |    $1 |
-| Développeur fullstack       | $1600 |
-| Développeur back-end        |   $12 |
-| Développeur Front-End       |    $1 |
-| Développeur d’application Android   |   $12 |
-| Développeur d’application IOS   |    $1 |
+| Développeur de logiciels    | 2 200€ - 4000€  |
+| Développeur de jeux vidéo   |   40000€ - 90000€  |
+| Administrateur de bases de données    |   25000€  - 45000€  |
+| Développeur fullstack       | 2500€  - 3700€  |
+| Développeur back-end        |   3000€ - +5400€  |
+| Développeur Front-End       |    2000€ - 4000€  |
+| Développeur d’application Android   |   2200€ - +4000€  |
+| Développeur d’application IOS   |    2500€ - +4000 |
 
 
 ## Licence
