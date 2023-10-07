@@ -1,11 +1,5 @@
 # Notre Projet 
-<style>
-p {
-    font-size: 30px;
-}
-</style>
-
-spoufi.
+**spoufi**
 
 
 ## Description
