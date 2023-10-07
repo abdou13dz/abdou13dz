@@ -1,5 +1,12 @@
 # Notre Projet 
-<span style="font-size: 60px;">spoufi.</span>
+<style>
+p {
+    font-size: 30px;
+}
+</style>
+
+spoufi.
+
 
 ## Description
 
