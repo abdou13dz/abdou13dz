@@ -53,3 +53,6 @@
 
 Ce projet est sous licence CC-by-nc-nd
 
+
+Je suis <span style="font-family:Papyrus; font-size:6em;">AMOUREUX !</span>
+
