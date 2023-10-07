@@ -21,7 +21,7 @@
 
 ## Utilisation
 
-- 1 ouvrir un navigateur <span style="font-family:Papyrus; font-size:10em;"> web !</span> 
+- 1 ouvrir un navigateur web
 - 2 aller sur notre site 
 - 3 choisir une formation qui vous intéresse 
 - 4 et bon visionnage
@@ -54,5 +54,4 @@
 Ce projet est sous licence CC-by-nc-nd
 
 
-Je suis <span style="font-family:Papyrus; font-size:10em;">AMOUREUX !</span>
 
