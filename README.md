@@ -37,11 +37,16 @@
 -  [x]   les concepts de base des réseaux et de la sécurité informatique
 
 ## métiers aprés notre formation
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables        |  Cool  |
+| ------------- | -----:|
+| Développeur de logiciels    | $1600 |
+| Développeur de jeux vidéo   |   $12 |
+| Administrateur de bases de données    |    $1 |
+| Développeur fullstack       | $1600 |
+| Développeur back-end        |   $12 |
+| Développeur Front-End       |    $1 |
+| Développeur d’application Android   |   $12 |
+| Développeur d’application IOS   |    $1 |
 
 
 ## Licence
