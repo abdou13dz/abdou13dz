@@ -1,5 +1,5 @@
 # Notre Projet 
-<span style="font-size: 24px;">spoufi.</span>
+<span style="font-size: 60px;">spoufi.</span>
 
 ## Description
 
