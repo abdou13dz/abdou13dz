@@ -14,7 +14,8 @@
 - on peut apprendre des langages de programation tel que:
 - [C++](https://fr.wikipedia.org/wiki/C%2B%2B)
 - [Python](https://fr.wikipedia.org/wiki/Python_(langage))
-- Java
+- <a href="URL" style="color: red;">Java</a>
+
 - Java script
 - Php
 
