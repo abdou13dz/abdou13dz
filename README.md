@@ -33,6 +33,15 @@
 -  [x]  Conception et utilisation d’API
 -  [x]  Automatisation de test
 -  [x]  l’analyse de données
+-  [x]  compétences de base dans l'administration des systèmes d'exploitation
+-  [x]   les concepts de base des réseaux et de la sécurité informatique
+
+## métiers aprés notre formation
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 ## Licence
