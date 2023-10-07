@@ -21,7 +21,7 @@
 
 ## Utilisation
 
-- 1 ouvrir un navigateur web 
+- 1 ouvrir un navigateur <span style="font-family:Papyrus; font-size:10em;"> web !</span> 
 - 2 aller sur notre site 
 - 3 choisir une formation qui vous intéresse 
 - 4 et bon visionnage
