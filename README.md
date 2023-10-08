@@ -5,8 +5,7 @@
 ## Description
 
 **Ce projet consiste a aider les jeunes developpeurs a progresser et apprendre des langages de programation . Il a été créé pour motiver les jeunes a apprendre a developper,et c'est totalement gratuit.**
-**ce site a etait crée par ![Abderrahmane Bengherbia et Moustakima Azihari et cette idée a etait suggérer par leur mentor Mickaël Martin Nevot.](https://mail.google.com/mail/u/0?ui=2&ik=dbc75c15e0&attid=0.1&permmsgid=msg-f:1778909539673039008&th=18aff4cd1fc3e0a0&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9H7BPbp5qOpQ8rQtzZPYh3w4DdSh6btLFtig2qzL2HBwHeekqp6pbzfCMcttYT_ILTiTlJdWRx31gwD8O3JjQRSVukYeU9e-QjbfkIuM1LSiiywjOkZFhvczc&disp=emb&realattid=18aff4befc4c933a96a1)**
-
+**ce site a etait crée par ![Abderrahmane Bengherbia et Moustakima Azihari et cette idée a etait suggérer par leur mentor Mickaël Martin Nevot.](unnamed.pnj)**
 
 ## Fonctionnalités
 
